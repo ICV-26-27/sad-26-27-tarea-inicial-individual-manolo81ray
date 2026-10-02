@@ -1,0 +1,7 @@
+schema: "classroom50/repo-config/v1"
+classroom: "sad-26-27"
+assignment: "tarea-inicial-individual"
+owner:
+  username: "manolo81ray"
+  id: 236324882
+  accepted_at: "2026-10-02T06:25:33Z"
